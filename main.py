@@ -1,3 +1,5 @@
+# Teste - Passou pelo meu PC - akai keisanki
+
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
 
